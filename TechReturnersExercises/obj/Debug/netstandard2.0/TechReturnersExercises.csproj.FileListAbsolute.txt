@@ -7,3 +7,12 @@ C:\Users\rnogueirad001\Documents\Projects\c_sharp_coding_exercises-main\TechRetu
 C:\Users\rnogueirad001\Documents\Projects\c_sharp_coding_exercises-main\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.csproj.CoreCompileInputs.cache
 C:\Users\rnogueirad001\Documents\Projects\c_sharp_coding_exercises-main\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.dll
 C:\Users\rnogueirad001\Documents\Projects\c_sharp_coding_exercises-main\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.pdb
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\bin\Debug\netstandard2.0\TechReturnersExercises.deps.json
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\bin\Debug\netstandard2.0\TechReturnersExercises.dll
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\bin\Debug\netstandard2.0\TechReturnersExercises.pdb
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.csprojAssemblyReference.cache
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.AssemblyInfoInputs.cache
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.AssemblyInfo.cs
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.csproj.CoreCompileInputs.cache
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.dll
+C:\Users\bruna\Documents\GitHub\c_sharp_coding_exercises\TechReturnersExercises\obj\Debug\netstandard2.0\TechReturnersExercises.pdb

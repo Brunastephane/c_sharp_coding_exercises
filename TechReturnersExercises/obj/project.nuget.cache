@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C5RU5sUnLwFruxClvpAewlU/y4bObYfl3B2/HPVbDyyVhFGqhAkC4FJf6pnVNk+KZeJ1mpOW7OIUl2fFTF9ong==",
+  "dgSpecHash": "VLebbIQYFw5bdh2+84HkOkq3ByAl5c26VGYJgYJAf/lN4etCP2ni93c1xpBi+wwC6A56RzQC2sf5Fdy1kHmOxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnogueirad001\\Documents\\Projects\\c_sharp_coding_exercises-main\\TechReturnersExercises\\TechReturnersExercises.csproj",
+  "projectFilePath": "C:\\Users\\bruna\\Documents\\GitHub\\c_sharp_coding_exercises\\TechReturnersExercises\\TechReturnersExercises.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rnogueirad001\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\rnogueirad001\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
