@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5RU5sUnLwFruxClvpAewlU/y4bObYfl3B2/HPVbDyyVhFGqhAkC4FJf6pnVNk+KZeJ1mpOW7OIUl2fFTF9ong==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rnogueirad001\\Documents\\Projects\\c_sharp_coding_exercises-main\\TechReturnersExercises\\TechReturnersExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rnogueirad001\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rnogueirad001\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

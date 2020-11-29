@@ -5,33 +5,46 @@ namespace TechReturners.Exercises
 {
     public class Exercise001
     {
-        public static String CapitalizeWord(String word) 
+        public static String CapitalizeWord(String word)
         {
-            // Add your code here!
+            return word.Substring(0, 1).ToUpper() + word.Substring(1);
             throw new NotImplementedException();
         }
 
-        public static String GenerateInitials(String firstName, String lastName) 
+        public static String GenerateInitials(String firstName, String lastName)
         {
-            // Add your code here!
+            return firstName.Substring(0, 1).ToUpper() + "." + lastName.Substring(0, 1).ToUpper();
             throw new NotImplementedException();
         }
 
-        public static double AddVat(double originalPrice, double vatRate) 
+        public static double AddVat(double originalPrice, double vatRate)
         {
-            // Add your code here!
+            return Math.Round((originalPrice + (originalPrice * (vatRate / 100))), 2);
             throw new NotImplementedException();
         }
 
-        public static String Reverse(String sentence) 
+        public static String Reverse(String sentence)
         {
-            // Add your code here!
+            string newsentence = "";
+            for (int i = sentence.Length-1; i >= 0; i--)
+            {
+                newsentence = newsentence + sentence.Substring(i, 1);
+            }
+            return newsentence;
             throw new NotImplementedException();
         }
 
         public static int CountLinuxUsers(List<User> users) 
         {
-            // Add your code here!
+            int count = 0;
+           foreach(User user in users)
+            {
+                if(user.Type == "Linux")
+                {
+                    count++;
+                }
+            }
+            return count;
             throw new NotImplementedException();
         }
     }
