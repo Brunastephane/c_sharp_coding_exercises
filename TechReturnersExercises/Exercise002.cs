@@ -7,16 +7,8 @@ namespace TechReturners.Exercises
         public static bool IsFromManchester(Person person)
         {
 
-            if (person.City == "Manchester")
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-            
-            throw new NotImplementedException();
+            return person.City == "Manchester" ? true : false;
+
         }
 
         public static bool CanWatchFilm(Person person, int ageLimit) 
@@ -29,7 +21,6 @@ namespace TechReturners.Exercises
             {
                 return true;
             }
-            throw new NotImplementedException();
         }
     }
 }
